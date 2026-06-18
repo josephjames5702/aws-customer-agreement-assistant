@@ -1,0 +1,17 @@
+fastapi>=0.100.0
+uvicorn>=0.22.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+sqlalchemy>=2.0.0
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+langchain>=0.0.350
+langchain-community>=0.0.10
+pymupdf>=1.22.5
+python-dotenv>=1.0.0
+streamlit>=1.24.0
+requests>=2.31.0
+plotly>=5.15.0
+pandas>=2.0.0
+reportlab>=4.0.0
+pytest>=7.4.0

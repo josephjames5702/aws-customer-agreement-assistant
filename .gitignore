@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+.env
+venv/
+.venv/
+node_modules/
+package-lock.json
+
+# Local databases & model cache
+*.db
+data/embeddings_cache/
+data/faiss_index/
+data/pdfs/aws_customer_agreement.pdf
